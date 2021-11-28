@@ -26,12 +26,6 @@ document.body.append(결과창);
   }
 });
 
-// 함수 연습
-// function 더하기(숫자1, 숫자2) {
-//   console.log(숫자1 + 숫자2);
-// }
-// 더하기(3, 5);
-
 // var word = "끝말잇기";
 
 // while (true) {
@@ -43,3 +37,9 @@ document.body.append(결과창);
 //     alert("땡");
 //   }
 // }
+
+// 함수 연습
+// function 더하기(숫자1, 숫자2) {
+//   console.log(숫자1 + 숫자2);
+// }
+// 더하기(3, 5);
